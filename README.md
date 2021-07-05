@@ -8,13 +8,15 @@ Basic starting point for remote logging in Unity. Abstract logger can be extende
 
 
 ## Usage
-To include in a Unity project, add the following to your manifest.json file, under dependencies:
+To include in a Unity project, in the package manager select 'Add package from git URL' and enter 
+```https://github.com/metervara/remote-logging-unity.git#release```
+
+Or manually add the following to your manifest.json file, under dependencies:
 
 ```json
 "metervara.logging": "https://github.com/metervara/remote-logging-unity.git#release"
 ```
 
-https://github.com/metervara/remote-logging-unity.git#release
 
 ## Development
 
