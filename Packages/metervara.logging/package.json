@@ -1,0 +1,10 @@
+{
+  "name": "metervara.logging",
+  "displayName": "Metervara Libs - Logging",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "description": "Logging related things",
+  "dependencies": {
+    
+  }
+}
